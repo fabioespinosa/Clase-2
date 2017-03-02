@@ -1,0 +1,21 @@
+{
+  "name": "backend",
+  "version": "1.0.0",
+  "description": "",
+  "main": "db.js",
+  "dependencies": {
+    "body-parser": "^1.17.0",
+    "cors": "^2.8.1",
+    "express": "^4.15.0",
+    "morgan": "^1.8.1",
+    "thinky": "^2.3.8"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
